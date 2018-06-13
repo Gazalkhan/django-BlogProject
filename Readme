@@ -1,12 +1,11 @@
 INTRODUCTION
 ---------------------------------------------------------------------------------------------------------------------
-	This is a simple blogging application project with backend using django 1.11.1 (commands, template tags, statics, media files, etc).It has simple UI to view list of article posted on application, authorized user can add new article with image content. User can also add comment on the post .
+This is a simple blogging application project with backend using django 1.11.13 (commands, template tags, statics, media files, etc).It has simple UI to view list of article posted on application, authorized user can add new article with image content. User can also add comment on the post .
 
 REQUIREMENTS
 ---------------------------------------------------------------------------------------------------------------------
-	Django 1.11.1
+	Django 1.11.*
 	Python >= 2.7
- 	front end: HTML/CSS
 
 INSTALLATION
 ---------------------------------------------------------------------------------------------------------------------
