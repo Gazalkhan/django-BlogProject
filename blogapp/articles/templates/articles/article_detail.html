@@ -1,0 +1,29 @@
+{% extends 'base_layout.html' %}
+
+{% block content %}
+<div class="article-detail">
+    <div class="article">
+        <img src="{{ article.thumb.url }}" />
+        <h2>{{ article.title }}</h2>
+        <h3>Written by {{ article.author.username }}</h3>
+        <p>{{ article.body }}</p>
+        <p>{{ article.date }}</p>
+    </div>
+</div>
+
+<p><a class="btn btn-default" href="{% url 'articles:add_comment_to_post' slug=article.slug %}">Add comments</a></p>
+
+<hr>
+
+{% for comment in article.comments.all %}
+
+    <div class="comment">
+        <div class="date">{{ comment.created_date }}</div>
+        <strong>{{ comment.author }}</strong>
+        <p>{{ comment.body|linebreaks }}</p>
+    </div>
+{% empty %}
+    <p>No comments here yet :(</p>
+{% endfor %}
+
+{% endblock %}

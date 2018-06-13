@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="564c7f14-452c-49f2-a94b-89bb622f0100" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/djangonautic/templates/base_layout.html" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/admin.py" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/forms.py" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/templates/articles/article_create.html" />
+        <option value="$PROJECT_DIR$/djangonautic/djangonautic/settings.py" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/templates/articles/article_list.html" />
+        <option value="$PROJECT_DIR$/djangonautic/assets/styles.css" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/templates/articles/articale_add_comment_to_post.html" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/urls.py" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/templates/articles/article_detail.html" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/templates/articles/add_comment_to_post.html" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/templates/articles/article_add_comment_to_post.html" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/models.py" />
+        <option value="$PROJECT_DIR$/djangonautic/articles/views.py" />
+        <option value="$PROJECT_DIR$/blogapp/manage.py" />
+        <option value="$PROJECT_DIR$/blogapp/articles/migrations/0003_auto_20171112_0905.py" />
+        <option value="$PROJECT_DIR$/blogapp/blogapp/wsgi.py" />
+        <option value="$PROJECT_DIR$/blogapp/blogapp/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="610" />
+    <option name="y" value="20" />
+    <option name="width" value="744" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django-BlogProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-BlogProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\django-BlogProject\blogapp\media" />
+      <recent name="E:\django-playlist-lesson-32\djangonautic\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="564c7f14-452c-49f2-a94b-89bb622f0100" name="Default" comment="" />
+      <created>1528308939640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528308939640</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/djangonautic/accounts/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/accounts/urls.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/accounts/views.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/migrations/0002_article_thumb.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/migrations/0003_auto_20171112_0905.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/migrations/0004_article_author.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/assets/logo.png" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/templates/about.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/tests.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/apps.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/media/images.jpg" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/media/default.png" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/media/6.png" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/media/3.png" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/media/2.png" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/media/1_4RoiyWn.png" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/media/1.png" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/templates/base_layout.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/templates/articles/article_create.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/assets/styles.css" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/admin.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/djangonautic/settings.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/djangonautic/urls.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/templates/articles/articale_add_comment_to_post.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/templates/articles/article_list.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/templates/articles/add_comment_to_post.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/forms.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/urls.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/templates/articles/article_detail.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/templates/articles/article_add_comment_to_post.html" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/models.py" />
+    <entry file="file://$PROJECT_DIR$/djangonautic/articles/views.py" />
+    <entry file="file://$PROJECT_DIR$/blogapp/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="60" lean-forward="false" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/blogapp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/articles/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/articles/migrations/0002_article_thumb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/articles/migrations/0003_auto_20171112_0905.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/articles/migrations/0004_article_author.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/1_4RoiyWn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/images.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/blogapp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/media/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/articles/migrations/0005_auto_20180611_2143.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogapp/blogapp/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#229#238#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
