@@ -18,7 +18,7 @@ class Article(models.Model):
 
 class Comment(models.Model):
     post = models.ForeignKey(Article, related_name='comments',blank=True )
-    author = models.CharField(max_length=200)
+    author = models.CharField(max_length=100)
     body = models.TextField(null=True)
     created_date = models.DateTimeField(auto_now_add=True)
     approved_comment = models.BooleanField(default=False)
@@ -29,4 +29,3 @@ class Comment(models.Model):
 
     def __str__(self):
         return self.body
-

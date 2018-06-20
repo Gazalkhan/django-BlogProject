@@ -4,9 +4,13 @@ from .models import Article
 from django.contrib.auth.decorators import login_required
 from . import forms
 from django.shortcuts import get_object_or_404
+from django.core.cache import cache
+from django.views.decorators.cache import cache_page
+from django.utils.cache import patch_vary_headers
+
 
 def article_list(request):
-    articles = Article.objects.all().order_by('date');
+    articles = Article.objects.all().order_by('-date');
     return render(request, 'articles/article_list.html', { 'articles': articles })
 
 def article_detail(request, slug):
@@ -43,3 +47,18 @@ def article_add_comment_to_post(request, slug):
     else:
         form = forms.CommentForm()
     return render(request, 'articles/article_add_comment_to_post.html', {'form': form})
+
+@cache_page(900,key_prefix='mycache') #will be catched for 15 mins 60*15
+def cache_view(request):
+    cache_key= Article.title
+   # cache_time = 86400  
+    data = cache.get(cache_key)
+    if not data:
+        article = Article()
+        data = article.get_data()
+        cache.set(cache_key, data)
+    response=render(request,'articles/article_list.html')
+    patch_vary_headers(response,['Cookie'])
+    return response
+
+
