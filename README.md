@@ -70,6 +70,7 @@ REQUIREMENTS
 API LEVEL DESCRIPTION
 ---------------------------------------------------------------------------------------------------------------------
 This Application have following concepts:
+
 Blog: The root concept of the API, it has posts and pages. This is the container for blog meta-information like Blog Name and Description.
 Articles: A publishable item that the blog author has created.
 Comments: A place where user can reacts to what the author has written.
@@ -79,11 +80,16 @@ Users: Someone who interacts with Blogging application, an Author, an Administra
 Major components:
  
 a)	Blog UI : This is user interface layer developed using HTML, Bootstrap.
+
 b)	Blog Web API : This is a REST service build on Django framework version 1.11.13 responsible to provide data to User Interface
+
 c)	Authentication: This component validate user to login to Blogging application.
+
 d)	Business Logic Domain: All business logic of Application is encapsulated in this component.
+
 e)	Database: SQLite Database is used for the project. 
  Django ENGINE value : django.db.backends.sqlite3
+
 Are external physical component connections needed?
 	No, The portal connects directly to the application server and does not require any external 	components.
 
